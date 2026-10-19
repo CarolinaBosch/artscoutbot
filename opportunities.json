@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T09:32:26-07:00",
+  "updated_at": "2026-10-19T09:32:30-07:00",
   "opportunities": [
     {
       "id": "sdmaag-16-and-under-2026",
@@ -798,6 +798,63 @@
       "caveat": "A fee-based group show with no cash prize. The $55 fee buys review of five works, not a guaranteed sale. All five works must be available January 7–30 and shipped to NYC (December 16–18) or hand-delivered (December 30 or January 2). Gallery sales commission must be confirmed before paying. Artists represented by First Street Gallery and SELECTS 2025/2026 exhibitors are ineligible.",
       "next_step": "Email info@firststreetgallery.org for the sales commission and any shipping-return costs before October 30. Proceed only if terms are acceptable and five available oils are ready.",
       "discovered_at": "2026-10-12T09:30:00-07:00"
+    },
+    {
+      "id": "mark-arts-national-oil-painting-2027",
+      "title": "2027 National Oil Painting Exhibition",
+      "organization": "Mark Arts (Wichita, Kansas)",
+      "track": "Exposure + Sales",
+      "type": "National juried oil-painting exhibition and cash awards",
+      "status": "New",
+      "verification": "Verified open on Mark Arts' official call page (eligibility, deadline, awards, juror, exhibition dates). Entry fee ($25, per OpenCall listing) and sales commission are not on the official page; Needs manual verification on the prospectus.",
+      "source": "Mark Arts official call for entries",
+      "url": "https://markartsks.com/exhibitions/artist-opportunities-exhibition-proposals/",
+      "posted": "Call open; posting date not stated",
+      "deadline": "November 14, 2026, 11:59 p.m. CST (9:59 p.m. PST)",
+      "compensation": "$3,000 in cash awards, including $1,500 for first place. Sales commission not stated on the official page; Needs manual verification.",
+      "location": "Mark Arts, 1307 N. Rock Road, Wichita, Kansas; exhibition January 8–March 13, 2027; juror Daniel Keys",
+      "fit": "Direct medium match: representational two-dimensional oil, created within the last two years, for sale, and not previously exhibited in Wichita. Open to U.S.-based artists, amateur and professional.",
+      "caveat": "Works must be available for sale. Delivery and return-shipping terms are not stated on the official page. Confirm fee, commission, and shipping before entering. Up to four works per the OpenCall listing.",
+      "next_step": "Email exhibitions@markartsks.com for the fee, commission, and shipping terms. If acceptable, select up to four oils painted since late October 2024 that are for sale and have not been shown in Wichita, then submit by November 14.",
+      "discovered_at": "2026-10-19T09:30:00-07:00"
+    },
+    {
+      "id": "encinitas-skate-park-mural-rfq-2026",
+      "title": "Encinitas Skate Park (Poods) Mural — Call for Artists (RFQ)",
+      "organization": "City of Encinitas with Encinitas Friends of the Arts",
+      "track": "Funding",
+      "type": "Paid public-art mural RFQ",
+      "status": "New",
+      "verification": "Verified open on the City of Encinitas Artist Opportunities page and the official RFQ document (call opens October 1, 2026).",
+      "source": "City of Encinitas official call and RFQ",
+      "url": "https://www.encinitasca.gov/government/departments/parks-recreation-cultural-arts/arts-opportunities",
+      "posted": "Call opened October 1, 2026",
+      "deadline": "November 20, 2026 (time not stated)",
+      "compensation": "Total project budget $30,000, covering fabrication, transportation, insurance, and installation per the RFQ. Three shortlisted artists each receive a $500 honorarium for a site-specific proposal. The Friends of the Arts pays the selected artist directly.",
+      "location": "Encinitas Skate Park (Poods), 429 Santa Fe Drive, Encinitas, California; artists residing in Southern California counties including San Diego may apply",
+      "fit": "Public mural commission in North County with a community-facing site. Suits an oil painter with large-scale, durable-paint experience; a stretch fit rather than a studio match.",
+      "caveat": "The RFQ requires 5–8 images and an ID sheet of exterior murals completed in the last five years, plus a resume of no more than two pages. If Emma lacks qualifying exterior murals, she would need an experienced muralist partner. Selection also requires panel review and City Council approval.",
+      "next_step": "Confirm whether Emma has five to eight completed exterior murals from the last five years. If not, decide by November 20 whether to partner with a qualified muralist; otherwise pass.",
+      "discovered_at": "2026-10-19T09:30:00-07:00"
+    },
+    {
+      "id": "beautifulpb-coastal-gateway-mural-2026",
+      "title": "beautifulPB Coastal Gateway Mural (Mission Bay Park)",
+      "organization": "beautifulPB (501(c)(3)), San Diego",
+      "track": "Funding",
+      "type": "Paid community-mural commission",
+      "status": "New",
+      "verification": "Needs manual verification: deadline, stipend, and scope are confirmed on the California Arts Council Collective listing, but beautifulPB's own site did not show the call when checked. Confirm the application form with the organizer before applying.",
+      "source": "California Arts Council Collective",
+      "url": "https://arts.ca.gov/collective/beautifulpb-231-5-beautifulpb-coastal-gateway-mural",
+      "posted": "Listing date not stated",
+      "deadline": "November 1, 2026 (time not stated; treat end of day October 31 PT as the safe cutoff)",
+      "compensation": "$6,000 stipend for designing the mural and overseeing the community painting event. Paint and supplies are provided by beautifulPB. No proposal stipend listed.",
+      "location": "Mission Bay Park entrance at the Rose Creek bike path and Mike Gotch Memorial Bridge, San Diego; target design and event spring/summer 2027",
+      "fit": "San Diego-based public-art role with local visibility. The medium is a community-painted, in-street wayfinding mural (up to 70 × 150 ft) rather than studio oil, so this is a stretch fit.",
+      "caveat": "Requires eligibility under the City of San Diego's definition of an artist and experience with public art and community painting. The project includes Kumeyaay community design feedback. Image-rights and contract terms have not been reviewed.",
+      "next_step": "Confirm the application form and eligibility on beautifulPB's site. If Emma has community-mural experience, prepare 3–5 work samples and short written answers before the November 1 deadline; otherwise pass.",
+      "discovered_at": "2026-10-19T09:30:00-07:00"
     }
   ]
 }
